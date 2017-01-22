@@ -1,0 +1,7 @@
+## Interface: 30200
+## Title: BagCompanion
+## Notes: A little helper that allows you to organize your bags
+## SavedVariablesPerCharacter: BagCompanion_ItemTimes
+
+BagCompanion.lua 
+BagCompanion.xml
